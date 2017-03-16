@@ -60,3 +60,8 @@ Quantitative research
 
 non normal
 
+abnormal
+
+Best Linear Unbiased Predication (BLUP)
+
+Big data
